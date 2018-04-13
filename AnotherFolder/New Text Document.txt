@@ -1,2 +1,8 @@
 I wrote this text in the GitHub text editor.  The text will be made, initially in the archive on GitHub.
 
+This line was written on my PC.  I had pulled the line above from the archiv on GitHub using the 'git pull origin' command.
+The question remains as just how to push these changes back up to the archive.  
+
+Is it easiest to use the Git GUI to stage the changes and then commit and push to the online archive? 
+
+
